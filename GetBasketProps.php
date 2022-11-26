@@ -1,5 +1,7 @@
 <?php
 
+namespace App;
+
 use Bitrix\Sale,
     Bitrix\Main;
 class GetBasketProps
